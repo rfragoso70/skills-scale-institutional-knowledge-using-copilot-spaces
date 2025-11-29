@@ -24,7 +24,13 @@ Our cross-functional teams include the following core roles:
 | **Project Manager (PM)** | Coordinates delivery, schedules, risk, and communications |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes backlog, and measures success |
 | **Developers** | Implement features, collaborate on design, and maintain test coverage |
-| **QA/Testing** | Validate quality and acceptance criteria |
+| **QA Lead** | Owns quality strategy, coordinates testing, and drives bug triage |
+| **Release Manager** | Coordinates releases, ensures checklists are followed, communicates status |
+| **UX Designer** | Translates needs into usable interfaces, champions user research |
+| **DevOps Engineer** | Designs CI/CD pipelines, automates deployments, monitors infrastructure |
+| **Security Champion** | Advocates secure practices, threat modeling, and security reviews |
+| **Project Sponsor** | Provides executive sponsorship, removes blockers, champions vision |
+| **Customer Success Manager** | Advocates for users, captures feedback, drives post-release success |
 | **Stakeholders** | Provide inputs and approvals |
 
 ### Communication Strategies
@@ -56,7 +62,7 @@ Navigate to specific process documentation using the links below:
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Identify, manage, and communicate risks and dependencies |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Standardized release process and deployment checklists |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capture learnings and drive actionable improvements |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed role definitions for Developers, Product Managers, and Project Managers |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed role definitions for all team roles including Developers, Product Managers, Project Managers, Release Managers, QA Leads, UX Designers, DevOps Engineers, Security Champions, Project Sponsors, and Customer Success Managers |
 
 ## Contributing
 
